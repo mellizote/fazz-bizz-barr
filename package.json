@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "airport": "babel-node .",
-    "test-airport": "mocha --compilers js:babel-core/register ./tests/**/*.spec.js",
+    "fazzBizzBarr": "babel-node .",
+    "test-fazzBizzBarr": "mocha --compilers js:babel-core/register ./tests/**/*.spec.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
